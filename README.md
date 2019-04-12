@@ -43,3 +43,5 @@ Epoch: [0][2500/2544]	Time 0.224 (0.538)	Data 0.000 (0.319)	Loss 13.8721 (16.882
 - LFWA dataset (All images are preprocessed based on five landmarks, The processed dataset could be download from [@ BaiduNetdisk](https://pan.baidu.com/s/1-bxzom7IqhvXWWejS48P1Q) , password: xth9)
   1. train, val and test label files: facialAttribute/LFWA 
   2. codes are the same as CelebA (It should be noted that the number of the classes and the featuremap dimension should be changed).
+
+- Equation (3) in our paper is implemented by ``` self.s = np.log((2.0**126)/2)/2```  in combineloss.py
