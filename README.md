@@ -40,4 +40,6 @@ Epoch: [0][2300/2544]	Time 0.208 (0.555)	Data 0.000 (0.337)	Loss 13.4986 (17.131
 Epoch: [0][2400/2544]	Time 0.238 (0.546)	Data 0.001 (0.328)	Loss 14.0403 (17.0069)
 Epoch: [0][2500/2544]	Time 0.224 (0.538)	Data 0.000 (0.319)	Loss 13.8721 (16.8824)
 ```
-- LFWA dataset (All images are preprocessed based on five landmarks, The processed dataset could be download from [@ BaiduNetdisk](https://pan.baidu.com/s/1gyFAAy427weUd2G-ozMgEg))
+- LFWA dataset (All images are preprocessed based on five landmarks, The processed dataset could be download from [@ BaiduNetdisk](https://pan.baidu.com/s/1-bxzom7IqhvXWWejS48P1Q) , password: xth9)
+  1. train, val and test label files: facialAttribute/LFWA 
+  2. codes are the same as CelebA (It should be noted that the number of the classes and the featuremap dimension should be changed).
