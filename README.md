@@ -11,7 +11,7 @@
   2. train.py: training the model
   3. predict.py: prediting the test set
   4. eva.py: computing the error rates
-  5. 
+  5. training logs (backbone: LightCNN):
 ```lr: 0.01
 Epoch: [0][0/2544]	Time 18.349 (18.349)	Data 17.233 (17.233)	Loss 74.2300 (74.2300)
 Epoch: [0][100/2544]	Time 0.234 (1.058)	Data 0.000 (0.833)	Loss 18.7452 (32.6997)
